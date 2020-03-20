@@ -1,0 +1,10 @@
+C:\Users\myc\Desktop\S8\c#\tp3\tp3\obj\Debug\tp3.csprojAssemblyReference.cache
+C:\Users\myc\Desktop\S8\c#\tp3\tp3\obj\Debug\tp3.csproj.CoreCompileInputs.cache
+C:\Users\myc\Desktop\S8\c#\tp3\tp3\bin\Debug\tp3.exe.config
+C:\Users\myc\Desktop\S8\c#\tp3\tp3\bin\Debug\tp3.exe
+C:\Users\myc\Desktop\S8\c#\tp3\tp3\bin\Debug\tp3.pdb
+C:\Users\myc\Desktop\S8\c#\tp3\tp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\myc\Desktop\S8\c#\tp3\tp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\myc\Desktop\S8\c#\tp3\tp3\obj\Debug\tp3.csproj.CopyComplete
+C:\Users\myc\Desktop\S8\c#\tp3\tp3\obj\Debug\tp3.exe
+C:\Users\myc\Desktop\S8\c#\tp3\tp3\obj\Debug\tp3.pdb
